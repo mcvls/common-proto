@@ -2,7 +2,7 @@
 
 syntax = "proto3";
 
-package sampleservice;
+package sample_service.v1;
 
 
 service SampleService {
